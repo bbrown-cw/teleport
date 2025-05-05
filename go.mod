@@ -1,4 +1,4 @@
-module github.com/gravitational/teleport
+module github.com/gravitational/teleport/v17
 
 go 1.24.2
 
